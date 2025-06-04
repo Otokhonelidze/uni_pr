@@ -1,4 +1,4 @@
-package oto.project.frontend;
+package oto.project.frontend.Admin;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
